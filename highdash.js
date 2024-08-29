@@ -15,4 +15,7 @@ highdash.takeWhile = (array, predicate) => {
 highdash.times = (n, predicate) => {
 }
 
+highdash.uniq = array => {
+}
+
 export default highdash
