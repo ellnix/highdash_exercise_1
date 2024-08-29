@@ -21,4 +21,7 @@ highdash.uniq = array => {
 highdash.union = (set_a, set_b) => {
 }
 
+highdash.minBy = (array, iteratee) => {
+}
+
 export default highdash
