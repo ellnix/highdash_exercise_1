@@ -1,0 +1,14 @@
+{
+  "name": "highdash_exercise_1",
+  "version": "1.0.0",
+  "description": "Beginner exercises in rewriting lodash functions",
+  "main": "highdash.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ellnix",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^10.7.3"
+  }
+}
