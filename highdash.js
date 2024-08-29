@@ -18,4 +18,7 @@ highdash.times = (n, predicate) => {
 highdash.uniq = array => {
 }
 
+highdash.union = (set_a, set_b) => {
+}
+
 export default highdash
