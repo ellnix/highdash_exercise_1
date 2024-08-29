@@ -8,6 +8,7 @@
   },
   "author": "ellnix",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
     "mocha": "^10.7.3"
   }
