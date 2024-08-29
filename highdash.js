@@ -12,4 +12,7 @@ highdash.every = (array, predicate) => {
 highdash.takeWhile = (array, predicate) => {
 }
 
+highdash.times = (n, predicate) => {
+}
+
 export default highdash
